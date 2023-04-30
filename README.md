@@ -10,3 +10,10 @@ Classify candidate modules as actual modules or non-modules using 3D convolution
 Diagnose the patient using the combined per-nodule classifications.
 Similar to the nodule classifier, attempt to determine whether the nodule is benign or malignant based on the imagining data alone.Taking the simple maximum of the per-tumor malignancy predictions, as one tumor needs to be malignant for a patient to have cancer.
 https://github.com/almascpdcs224n/__computational-biology/blob/main/__LunaRefApp_with_PyTorch.ipynb
+
+<table>
+<tr> <img width="1325" alt="image" src="https://user-images.githubusercontent.com/67139134/235373263-c0c0de09-e18d-4f58-94f9-fb002a5244c3.png">
+
+ <br/></tr>
+
+</table>
