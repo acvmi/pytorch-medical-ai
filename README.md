@@ -12,8 +12,7 @@ Similar to the nodule classifier, attempt to determine whether the nodule is ben
 https://github.com/almascpdcs224n/__computational-biology/blob/main/__LunaRefApp_with_PyTorch.ipynb
 
 <table>
-<tr> <img width="1325" alt="image" src="https://user-images.githubusercontent.com/67139134/235373263-c0c0de09-e18d-4f58-94f9-fb002a5244c3.png">
-
+<tr> <img width="1282" alt="image" src="https://user-images.githubusercontent.com/67139134/235373445-f2756a8b-dc55-404c-a4cc-1688a60c5d26.png">
  <br/></tr>
 
 </table>
