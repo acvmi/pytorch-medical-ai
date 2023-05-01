@@ -9,11 +9,16 @@ The end-to-end implementation is the process of taking a CT scan and determining
 Classify candidate modules as actual modules or non-modules using 3D convolution.
 Diagnose the patient using the combined per-nodule classifications.
 Similar to the nodule classifier, attempt to determine whether the nodule is benign or malignant based on the imagining data alone.Taking the simple maximum of the per-tumor malignancy predictions, as one tumor needs to be malignant for a patient to have cancer.
-https://github.com/almascpdcs224n/__computational-biology/blob/main/__LunaRefApp_with_PyTorch.ipynb
-
 <table>
-<tr> 
+
 <td>
-<img width="1200" alt="image" src="https://user-images.githubusercontent.com/67139134/235382639-51a0545d-caa2-4429-9ff1-362c2c1ae9b4.png"> </td>
-</tr>
+<img width="392" alt="image" src="https://user-images.githubusercontent.com/67139134/235383922-d5ddb94c-f5dc-46af-8ce4-03e4abd20074.png"> </td>
+<td>
+<img width="392" alt="image" src="https://user-images.githubusercontent.com/67139134/235384000-26359915-4a9a-4161-bee0-3fcb42b35684.png"> </td>
+<td>
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/67139134/235384780-02d89390-b07c-47b9-9b46-3fbb710c3de1.png">
+</td>
+<td>
+<img width="180" alt="image" src="https://user-images.githubusercontent.com/67139134/235384922-b815d119-c9cb-4dd4-ad63-7eb7b97fc1b4.png"> 
+</td>
 </table>
