@@ -12,13 +12,17 @@ Similar to the nodule classifier, attempt to determine whether the nodule is ben
 <table>
 
 <td>
-<img width="392" alt="image" src="https://user-images.githubusercontent.com/67139134/235383922-d5ddb94c-f5dc-46af-8ce4-03e4abd20074.png"> </td>
-<td>
-<img width="392" alt="image" src="https://user-images.githubusercontent.com/67139134/235384000-26359915-4a9a-4161-bee0-3fcb42b35684.png"> </td>
-<td>
-<img width="200" alt="image" src="https://user-images.githubusercontent.com/67139134/235384780-02d89390-b07c-47b9-9b46-3fbb710c3de1.png">
+<img width="390" alt="image" src="https://user-images.githubusercontent.com/67139134/235386508-79985a85-7d10-4434-ae0a-b49c9515e7e5.png">
 </td>
 <td>
-<img width="180" alt="image" src="https://user-images.githubusercontent.com/67139134/235384922-b815d119-c9cb-4dd4-ad63-7eb7b97fc1b4.png"> 
+<img width="380" alt="image" src="https://user-images.githubusercontent.com/67139134/235386079-8239cdbc-f293-46f2-9bd1-433b84c3d54c.png">
+
+</td>
+<td>
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/67139134/235385410-0c909a69-1511-405a-ae55-745450f3e3b3.png">
+</td> 
+<td>
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/67139134/235385050-652e44a1-c929-4a5a-bfeb-1b467658a4f2.png">
+
 </td>
 </table>
