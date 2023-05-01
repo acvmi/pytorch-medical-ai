@@ -9,7 +9,7 @@ The end-to-end implementation is the process of taking a CT scan and determining
 Classify candidate modules as actual modules or non-modules using 3D convolution.
 Diagnose the patient using the combined per-nodule classifications.
 Similar to the nodule classifier, attempt to determine whether the nodule is benign or malignant based on the imagining data alone.Taking the simple maximum of the per-tumor malignancy predictions, as one tumor needs to be malignant for a patient to have cancer.
-<table>
+<table align='top'>
 
 <td>
 <img width="390" alt="image" src="https://user-images.githubusercontent.com/67139134/235386508-79985a85-7d10-4434-ae0a-b49c9515e7e5.png">
@@ -19,7 +19,7 @@ Similar to the nodule classifier, attempt to determine whether the nodule is ben
 
 </td>
 <td>
-<img width="200" alt="image" src="https://user-images.githubusercontent.com/67139134/235385410-0c909a69-1511-405a-ae55-745450f3e3b3.png">
+<img width="205" alt="image" src="https://user-images.githubusercontent.com/67139134/235385410-0c909a69-1511-405a-ae55-745450f3e3b3.png">
 </td> 
 <td>
 <img width="200" alt="image" src="https://user-images.githubusercontent.com/67139134/235385050-652e44a1-c929-4a5a-bfeb-1b467658a4f2.png">
